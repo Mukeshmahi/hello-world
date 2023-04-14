@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, SAHAJ FAMILY </h1>
+   <h1> WELCOME TO  SAHAJ FAMILY </h1>
 
   
 </form>
